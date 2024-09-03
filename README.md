@@ -3,7 +3,7 @@
 - 👀 I’m interested in software development, data structures, algorithms, and web development.
 - 🌱 I’m currently learning advanced ReactJS concepts and exploring front end development.
 - 💞️ I’m looking to collaborate on interesting web development projects and contribute to tech innovations.
-- 📫 How to reach me: Email me at  [analhalder02@gmail.com](mailto:analhalder02@gmail.com) | Connect with me on [LinkedIn](https://www.linkedin.com/in/anal-kumar-halder/)
+- 📫 How to reach me: Email me at  [analhalder26@gmail.com](mailto:analhalder26@gmail.com) | Connect with me on [LinkedIn](https://www.linkedin.com/in/anal-kumar-halder/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can code while listening to my favorite music and still stay focused on the task at hand.
 
