@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @AnalHalder
 
 - 👀 I’m interested in software development, data structures, algorithms, and web development.
-- 🌱 I’m currently learning advanced ReactJS concepts and exploring front end development.
+- 🌱 I’m currently learning backend web-dev concepts and exploring full-stack web development.
 - 💞️ I’m looking to collaborate on interesting web development projects and contribute to tech innovations.
 - 📫 How to reach me: Email me at  [analhalder26@gmail.com](mailto:analhalder26@gmail.com) | Connect with me on [LinkedIn](https://www.linkedin.com/in/anal-kumar-halder/)
 - 😄 Pronouns: He/Him
